@@ -16,4 +16,4 @@
 ### Entre em contato pelo Email:
 - igordiogo1314@gmail.com
 
-Atualmente estudante do Instituto Federal do Maranhão
+Atualmente estudante de Análise e desenvolvimento de sistemas na Unigrande.
