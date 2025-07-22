@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Igor Diogo✌️
 
-[![Blog](https://img.shields.io/website?label=Portifolio&style=for-the-badge&color=red&url=https://portifolio-weld-rho-91.vercel.app/)](igor014.vercel.app)
+[![Blog](https://img.shields.io/website?label=Portifolio&style=for-the-badge&color=red&url=https://portifolio-weld-rho-91.vercel.app/)](https://igor014.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igordiogo2006)
 
 ![Igor Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=igordiogo2022&show_icons=true&theme=tokyonight)
