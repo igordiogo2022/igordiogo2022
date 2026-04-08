@@ -9,14 +9,19 @@ Computer Science and Artificial Intelligence student at UFMA, with a technical d
 I develop web projects using HTML, CSS, and JavaScript, focusing on continuous improvement and building practical solutions.
 Currently seeking my first opportunity in the technology field.
 
+<hr>
+
 [![Blog](https://img.shields.io/website?label=Portifolio&style=for-the-badge&color=red&url=https://portifolio-weld-rho-91.vercel.app/)](https://igor014.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igordiogo2006)
+
+<hr>
 
 ### 💻Tecnologias / Technologies
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&color=orange&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&color=blue&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<hr>
 
 ### 📫Entre em contato / Get in touch:
 Email:	igordiogo1314@gmail.com <br>
